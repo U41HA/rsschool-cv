@@ -1,4 +1,4 @@
-# СМ of Alexandr Fraind, junior dev from Siberia
+# CV of Alexandr Fraind, junior dev from Siberia
 ![My photo](/assets/cv_photo.jpg)
 
 ## My name is
