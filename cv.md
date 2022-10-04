@@ -13,17 +13,24 @@ Aleksandr Fraind
 ## Who am I
 * I am an junior web-developer from Russia
 ### My strength:
-    - Creativity
-    - Learnability
-    - Sociability
-    - Teamwork
-    - Great humor
+- Creativity
+- Learnability
+- Sociability
+- Teamwork
+- Great humor
 
 ## My skills
 * HTML
 * CSS
 * JS
 * Basic git command
+
+## Code example
+```
+function multiply(a, b){
+  return a * b
+}​
+```
 
 ## Educational projects
 1. HTML-courses: [code-basic.com](https://ru.code-basics.com/languages/html)
