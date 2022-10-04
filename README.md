@@ -1,1 +1,1 @@
-# Link to my [CV](https://U41HA.github.io/rsschool-cv/cv) 
+# Link to my [CV](https://U41HA.github.io/rsschool-cv/cv.md) 
