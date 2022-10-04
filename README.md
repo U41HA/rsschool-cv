@@ -1,1 +1,1 @@
-# Hello, World! This is my [CV](https://U41HA.github.io/rsschool-cv/cv) 
+# [CV](https://U41HA.github.io/rsschool-cv/) from rsschool-cv-html branch!
