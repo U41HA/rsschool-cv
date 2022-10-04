@@ -5,10 +5,10 @@
 Aleksandr Fraind
 
 ## My contacts
--[**VK**](https://vk.com/icelanding)
--[**Telegram**](https://t.me/U41HA)
--[**Discord**](https://discordapp.com/users/U41HA#3056)
--[**Github**](https://github.com/U41HA)
+- [**VK**](https://vk.com/icelanding)
+- [**Telegram**](https://t.me/U41HA)
+- [**Discord**](https://discordapp.com/users/U41HA#3056)
+- [**Github**](https://github.com/U41HA)
 
 ## Who am I
 * I am an junior web-developer from Russia
