@@ -1,1 +1,1 @@
-# Hello, World! This is the link to my [CV](https://U41HA.github.io/rsschool-cv/cv) 
+# Hello, World! This is my [CV](https://U41HA.github.io/rsschool-cv/cv) 
