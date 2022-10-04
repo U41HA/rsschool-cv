@@ -1,4 +1,4 @@
-# That is my CV
+# СМ of Alexandr Fraind, junior dev from Siberia
 ![My photo](/assets/cv_photo.jpg)
 
 ## My name is
