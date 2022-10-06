@@ -1,8 +1,7 @@
-.wraper {
+.wrapper {
     margin: 0 auto;
     max-width: 1012px;
     padding: 0 16px;
-    box-sizing: border-box;
 }
 
 footer {
