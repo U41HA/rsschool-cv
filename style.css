@@ -5,8 +5,15 @@
     box-sizing: border-box;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-link-container {
+    display: flex;
+    align-items: center;
+    width: 100px;
+    justify-content: space-between;
 }
