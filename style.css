@@ -17,3 +17,35 @@ footer {
     width: 100px;
     justify-content: space-between;
 }
+
+
+
+
+
+
+
+
+
+/* Navigation arrow by bootstrap
+section {
+    height: 100vh;
+}
+
+nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+.top:before {
+    content: "\f176";
+    font-family: FontAwesome;
+    font-size: 30px;
+}
+  .down:before {
+    content: "\f175";
+    font-family: FontAwesome;
+    font-size: 30px;
+}
+ */
